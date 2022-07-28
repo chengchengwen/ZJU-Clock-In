@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# 打卡脚修改自ZJU-nCov-Hitcarder的开源代码，感谢这位同学开源的代码
+# caizz打卡脚修改自ZJU-nCov-Hitcarder的开源代码，感谢这位同学开源的代码
 
 import requests
 import json
